@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+
+webrick:
+  headers:
+    My-Header: Charmy Blog
