@@ -1,5 +1,5 @@
+# Site settings
+title: Charmy Blog
+
 theme: jekyll-theme-architect
 
-webrick:
-  headers:
-    My-Header: Charmy Blog
