@@ -1,9 +1,5 @@
-<h2>{{ site.data.aside.title }}</h2>
-<ul>
-   {% for item in site.data.aside.list %}
-      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+<h2>Recent Posts</h2>
+
 <ul>
   {% for post in site.posts %}
     <li>
