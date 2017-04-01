@@ -3,4 +3,4 @@
   Starts from Mar 31 2017, a new begining.
  
 # Jekyll Help
-  [Help](_posts/help.html) file
+  [Help]({{ site.baseurl }}{% post_url 2017-04-01-help %}) file
