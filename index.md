@@ -3,4 +3,4 @@
   Starts from Mar 31 2017, a new begining.
  
 # Jekyll Help
-  [help](help.md) file
+  [{{ site.posts.help.title }}]({{ site.posts.help.url }}) file
