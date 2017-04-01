@@ -1,7 +1,6 @@
 # Site settings
 title: Charmy Blog
 description: A demo with Jekyll on Github.
-url: https://fcharmy.github.io/demo-blog
 
 show_downloads: true
 theme: jekyll-theme-architect
