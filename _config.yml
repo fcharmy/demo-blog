@@ -5,3 +5,4 @@ description: A demo with Jekyll on Github.
 show_downloads: true
 theme: jekyll-theme-architect
 
+excerpt_separator: <!--more-->
