@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Jekyll Help
+layout: post
 comments: true
 ---
 
