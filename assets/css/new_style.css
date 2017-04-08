@@ -17,3 +17,8 @@ pre code {
 .panel-body{
   overflow: hidden;
 }
+
+/* remove the underline for a in title and aside */
+.title, a.button:focus, a.button:hover{
+  text-decoration: none;
+}
