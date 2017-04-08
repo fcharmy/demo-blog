@@ -2,7 +2,13 @@
   margin-top: 50px;
 }
 
+/* overwrite code block blue text and wite background */
 pre code {
     color: #000;
     background-color: transparent;
+}
+
+/* overwrite bootstrp (box-sizing: border-box) for *all */
+*{
+    box-sizing: content-box;
 }
