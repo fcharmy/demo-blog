@@ -12,3 +12,8 @@ pre code {
 *{
     box-sizing: content-box;
 }
+
+/* keep elements inside panel */
+.panel-body{
+  overflow: hidden;
+}
