@@ -19,6 +19,6 @@ pre code {
 }
 
 /* remove the underline for a in title and aside */
-.title, a.button:focus, a.button:hover{
+.title:hover, a.button:focus, a.button:hover{
   text-decoration: none;
 }
