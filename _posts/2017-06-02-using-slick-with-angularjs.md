@@ -4,7 +4,7 @@ layout: default
 comments: true
 ---
 
-I was using slick to create a carousel in angular module, it's okay if the variable in ng-repeat will not updated. However problems hapends when I push or splice the array.
+I was using slick to create a carousel in angular module, it's okay if the variable in ng-repeat will not updated. However problems hapends when I push or splice the array. 
 Angularjs: 1.4.8
 Slick: 1.6.0
 <!--more-->
@@ -39,6 +39,7 @@ When pushing new element into array, the layout of carousel is totally changed. 
 ```
 
 But after you update the variable in ng-repeat, div.slick-list now is empty, images goes right under carousel that's why the layout is not the way you expected.
+I was try to use the ones which wrap slick as a angular directive, but problem was not sloved, they didn't fix this.
 So I just use the lazy way which is unslick and initial slick again, or you can use 'slickAdd' which is already provided, and $compile to compile the html. 
 
 A huge problem encounters when I try to splice the array. If I splice the element in the front, the click event of elements after this is not working!
