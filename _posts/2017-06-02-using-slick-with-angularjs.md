@@ -5,7 +5,7 @@ comments: true
 ---
 
 I was using slick to create a carousel in angular module, it's okay if the variable in ng-repeat will not updated. However problems hapends when I push or splice the array.   
-Angularjs: 1.4.8
+Angularjs: 1.4.8  
 Slick: 1.6.0
 <!--more-->
 
