@@ -2,7 +2,7 @@
 title: Charmy Blog
 description: A demo with Jekyll on Github.
 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 excerpt_separator: <!--more-->
