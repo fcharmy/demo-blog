@@ -20,3 +20,16 @@ Summary of blind spot of myself in cs, I suddenly understand why other people ar
   - Leaky Bucket (Nginx limit_req)
   - Token Bucket (Guava RateLimiter)
   - Redis counter expire in 1s
+
+* Why Airflow?
+  some important feature for me, [all great things about Airflow](https://github.com/visenze/weardex-app-bazooka/pull/2071)
+  - Jobs can pass parameters to other jobs downstream
+  - built-in authentication details
+  - Accessibility of log files and other meta-data through the web GUI
+  - Dynamic DAGs
+  - Conditional execution in job flow diagrams
+  - Detailed info about landing times, processing times and SLA misses
+  - Temporarily turning workflows on and off
+  - Easy to re-run processing
+  - AJAX/Rest API for job manipulation
+  - Work gets distributed across your cluster at the task level, not at the DAG level
