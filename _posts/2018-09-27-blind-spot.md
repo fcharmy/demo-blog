@@ -22,7 +22,7 @@ Summary of blind spot of myself in cs, I suddenly understand why other people ar
   - Redis counter expire in 1s
 
 * Why Airflow?
-  some important feature for me, [all great things about Airflow](https://github.com/visenze/weardex-app-bazooka/pull/2071)
+  some important feature for me, [all great things about Airflow](https://gtoonstra.github.io/etl-with-airflow/great.html)
   - Jobs can pass parameters to other jobs downstream
   - built-in authentication details
   - Accessibility of log files and other meta-data through the web GUI
