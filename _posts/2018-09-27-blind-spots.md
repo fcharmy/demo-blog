@@ -6,7 +6,7 @@ comments: true
 
 Summary of blind spot of myself in cs, I suddenly understand why other people are outerstanding.
 
-* How dockker layers works?
+* How docker layers works?
   - layers are reusable
   - every command specify in your docker file will cause your previous image to change which create a new layer
   - if you change your docker file, only that layer and after this layer will be changed
